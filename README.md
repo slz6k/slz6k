@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Hello, I'm MINKYUNG👋 </h1>
+  <h1> Hello, I'm MinKyung👋 </h1>
 </div>
 <div align="center">
   <a href="https://instagram.com/slz6k?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/slz6k-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
